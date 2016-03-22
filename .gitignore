@@ -1,2 +1,7 @@
 # ignore virtual environment
-venv
+venv/
+venv_test/
+
+# test results
+pylint.out
+.coverage
