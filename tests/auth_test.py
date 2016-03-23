@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!venv/bin python
 """Unit tests for the prj_to_be_tested.authentcation module."""
 
 
